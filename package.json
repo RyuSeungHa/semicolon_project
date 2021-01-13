@@ -1,0 +1,12 @@
+{
+  "name": "semicolon_project",
+  "version": "1.0.0",
+  "description": "semicolon_project",
+  "main": "index.js",
+  "repository": "https://github.com/RyuSeungHa/semicolon_project",
+  "author": "Ryu <tmdgk1810@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
